@@ -15,4 +15,4 @@ A device mockup maker for Google Play screenshots.
 ## Examples
 | Screenshot-Mockup | Text-Mockup | Censored-Screenshot-Mockup |
 | --- | --- | --- |
-| ![Screenshot-Mockup](projects/example-project/output/en/0.png) | ![Text-Mockup](projects/example-project/output/en/7.png) | ![Censored-Screenshot-Mockup](projects/example-project/output/en/2.png) |
+| ![Screenshot-Mockup](projects/example-project/output/mockups_1704122680/en/0.png) | ![Text-Mockup](projects/example-project/output/mockups_1704122680/en/7.png) | ![Censored-Screenshot-Mockup](projects/example-project/output/mockups_1704122680/en/2.png) |
